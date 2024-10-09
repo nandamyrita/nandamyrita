@@ -9,7 +9,6 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nandamyrita&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-  <img src="https://imgur.com/a/ti-jiWJmum" width="200px" alt="gif animado" />
 </p>
 
 
@@ -33,7 +32,7 @@
 
 ## ✨ Random Dev Quote:
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="dev quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
 </p>
 
 <picture align="center">
