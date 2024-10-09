@@ -7,8 +7,10 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandamyrita&layout=compact&hide_border=true&title_color=6c5ac9&text_color=6c5ac9&bg_color=0d1117" />
 </div>
 
-<p align="center">
+  <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nandamyrita&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://imgur.com/a/jiWJmum" width="200px" alt="gif animado" />
+</p>
 </p>
 
 <div align="center"> 
