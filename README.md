@@ -9,7 +9,9 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nandamyrita&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://pin.it/1L9Zbxllz" width="200px" alt="gif animado" />
 </p>
+
 
 <div align="center"> 
 <a href="https://instagram.com/SeuInstagram" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -27,7 +29,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
 
 ## ✨ Random Dev Quote:
