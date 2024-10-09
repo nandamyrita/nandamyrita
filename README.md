@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SeuUsername&show_icons=true&count_private=true&hide_border=true&title_color=6c5ac9&icon_color=6c5ac9&text_color=c9d1d9&bg_color=0d1117" alt="Nanda's GitHub stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsername&layout=compact&hide_border=true&title_color=6c5ac9&text_color=6c5ac9&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?nanamyrita=nanamyrita&layout=compact&hide_border=true&title_color=6c5ac9&text_color=6c5ac9&bg_color=0d1117" />
 </div>
 
 <p align="center">
@@ -29,8 +29,7 @@
 
 ### Studying in this moment:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
+
 
 ## ✨ Random Dev Quote:
 <p align="center">
