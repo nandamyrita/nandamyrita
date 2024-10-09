@@ -37,7 +37,3 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="dev quote" />
 </p>
 
-## 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SeuUsername&theme=onedark" alt="SeuUsername" />
-</p>
