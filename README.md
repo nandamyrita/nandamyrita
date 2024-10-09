@@ -13,22 +13,23 @@
 
 
 <div align="center"> 
-<a href="https://instagram.com/SeuInstagram" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://nanda.mii" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="mailto:seu.email@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
  ### Main skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=SQL&labelColor=0D1117)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=Node.js&labelColor=0D1117)&nbsp;
-![Express.js](https://img.shields.io/badge/-Express.js-0D1117?style=for-the-badge&logo=express&labelColor=0D1117)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-0D1117?style=for-the-badge&logo=tailwind-css&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment:
-
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=Node.js&labelColor=0D1117)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.js-0D1117?style=for-the-badge&logo=express&labelColor=0D1117)&nbsp;
 
 ## ✨ Random Dev Quote:
 <p align="center">
