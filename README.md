@@ -9,15 +9,25 @@
 
 ---
 
-### 📚 **Connect with Me**:
+### 📞 **Let's Connect!**
 
-<div align="center"> 
+Feel free to reach out to me through any of the platforms below!
 
-  <a href="mailto:mariafernanda.mfsm8@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+<div align="center">
+  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117">
   </a>
-  <a href="www.linkedin.com/in/maria-fernanda-439137202" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank">
+  <a href="mailto:seu.email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117">
+  </a>
+  <a href="https://nanda.mii" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117">
+  </a>
+  <a href="https://twitter.com/seu-twitter" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117">
+  </a>
+  <a href="https://github.com/seu-username" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117">
   </a>
 </div>
 
