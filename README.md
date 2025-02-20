@@ -34,11 +34,9 @@
 
 
 ### 📖 **Currently Studying**:
-<div align="center">
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)
-  ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=Node.js&labelColor=0D1117)
-  ![Express.js](https://img.shields.io/badge/-Express.js-0D1117?style=for-the-badge&logo=express&labelColor=0D1117)
-</div>
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=Node.js&labelColor=0D1117)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.js-0D1117?style=for-the-badge&logo=express&labelColor=0D1117)&nbsp;
 
 
 
