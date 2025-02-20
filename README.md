@@ -16,15 +16,15 @@
 Feel free to reach out to me through any of the platforms below!
 
 
-  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
-    
+  <a href="www.linkedin.com/in/maria-fernanda-439137202" target="_blank">
+       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117">
   </a>
-  <a href="mailto:seu.email@gmail.com" target="_blank">
-   
+  <a href="mailto:mariafernanda.mfsm8@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117">
   </a>
- 
+  </a>
   <a href="https://github.com/seu-username" target="_blank">
-   
+    <img src="https://img.shields.io/badge/-GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117">
   </a>
 </div>
 
